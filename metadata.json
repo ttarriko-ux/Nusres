@@ -1,0 +1,5 @@
+{
+  "name": "Nurse Treatment Reminder",
+  "description": "An application to help nurses track and manage patient treatments throughout their shift. It provides a clear schedule of upcoming medications, allows marking treatments as administered, and uses AI to provide quick medication information.",
+  "requestFramePermissions": []
+}
